@@ -110,7 +110,3 @@ Data Science and Machine Learning are powerful skills that are in high demand. Y
 ### Start small. Stay patient. Keep practicing.
 
 One day, *your* model might predict the future.
-
----
-
-Would you like this turned into a downloadable PDF or Word file for sharing or printing?
